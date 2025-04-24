@@ -33,7 +33,6 @@ code {
   color: white !important;
 }
 
-/* Style global pour les champs de formulaire */
 .MuiInputBase-root {
   color: white !important;
 }
@@ -46,7 +45,6 @@ code {
   border-color: #404040 !important;
 }
 
-/* Style pour le menu déroulant */
 .MuiMenu-paper {
   background-color: #181818 !important;
 }
@@ -59,7 +57,7 @@ code {
   background-color: #282828 !important;
 }
 
-/* Style pour les boutons */
+
 .MuiButton-contained {
   background-color: #e50914 !important;
 }
@@ -69,7 +67,7 @@ code {
   border-color: white !important;
 }
 
-/* Style pour les icônes */
+
 .MuiSvgIcon-root {
   color: white !important;
 }
