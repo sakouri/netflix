@@ -1,0 +1,67 @@
+.add-content-container {
+    padding: 2rem 0;
+}
+
+.add-content-paper {
+    padding: 2rem;
+    background-color: #181818 !important;
+    color: white !important;
+}
+
+.MuiTextField-root {
+    margin-bottom: 1rem;
+}
+
+.MuiInputLabel-root {
+    color: #aaa !important;
+}
+
+.MuiOutlinedInput-root {
+    color: white !important;
+}
+
+.MuiOutlinedInput-notchedOutline {
+    border-color: #404040 !important;
+}
+
+.MuiOutlinedInput-root:hover .MuiOutlinedInput-notchedOutline {
+    border-color: #666 !important;
+}
+
+.MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline {
+    border-color: #fff !important;
+}
+
+.MuiSelect-icon {
+    color: white !important;
+}
+
+.MuiSelect-select {
+    color: white !important;
+}
+
+.form-actions {
+    display: flex;
+    gap: 1rem;
+    margin-top: 2rem;
+}
+
+.submit-button {
+    background-color: #e50914 !important;
+    color: white !important;
+    text-transform: none !important;
+    font-size: 1rem !important;
+    min-width: 120px;
+}
+
+.cancel-button {
+    color: white !important;
+    border-color: white !important;
+    text-transform: none !important;
+    font-size: 1rem !important;
+    min-width: 120px;
+}
+
+.MuiIconButton-root {
+    color: white !important;
+}

@@ -1,0 +1,57 @@
+.app {
+  min-height: 100vh;
+  background-color: #000000;
+  color: white;
+}
+
+.container {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.app-header {
+    background-color: #000000;
+    padding: 1rem;
+    margin-bottom: 2rem;
+}
+
+.app-title {
+    color: white;
+    text-decoration: none;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.add-button {
+    color: white;
+    text-decoration: none;
+    margin-left: 1rem;
+}
+
+/* Style pour la barre de navigation */
+.MuiAppBar-root {
+  background-color: #000000 !important;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5) !important;
+}
+
+.MuiToolbar-root {
+  padding: 0.5rem 1rem !important;
+}
+
+/* Style pour les boutons de navigation */
+.MuiIconButton-root {
+  color: #e5e5e5 !important;
+}
+
+.MuiIconButton-root:hover {
+  color: white !important;
+  background-color: rgba(255, 255, 255, 0.1) !important;
+}
+
+/* Style pour le titre */
+.MuiTypography-root {
+  color: #e50914 !important;
+  font-weight: bold !important;
+  font-size: 1.75rem !important;
+  letter-spacing: 0.5px !important;
+}

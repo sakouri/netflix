@@ -1,0 +1,42 @@
+.content-detail-container {
+    padding: 2rem 0;
+}
+
+.content-detail-paper {
+    padding: 2rem;
+    background-color: #181818 !important;
+    color: white !important;
+}
+
+.content-image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+.content-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 1.5rem;
+}
+
+.content-actions {
+    display: flex;
+    gap: 1rem;
+}
+
+.edit-button {
+    color: white !important;
+    border-color: white !important;
+}
+
+.delete-button {
+    color: #e50914 !important;
+    border-color: #e50914 !important;
+}
+
+.video-container {
+    margin: 2rem 0;
+}
