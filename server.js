@@ -16,7 +16,7 @@ app.use('/api/categories', categoryRoutes);
 
 // Route de test
 app.get('/', async (req, res) => {
-    res.json({ message: "Connexion à la BDD OK" });
+    res.json({ message: "Connexion à la BDD: OK" });
 });
 
 app.listen(port, () => {
