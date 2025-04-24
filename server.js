@@ -16,7 +16,7 @@ app.use('/api/categories', categoryRoutes);
 
 // Route de test
 app.get('/', async (req, res) => {
-    res.json({ message: "API Netflix Clone fonctionnelle. Utilisez /api/contents pour accéder aux données." });
+    res.json({ message: "Connexion à la BDD OK" });
 });
 
 app.listen(port, () => {
